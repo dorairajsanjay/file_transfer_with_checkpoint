@@ -23,9 +23,9 @@ Syntax:  python transfer_files.py <keyfile> <destination location> <source direc
 
 where,
 
-keyfile - PEM file used for the file transfer
-destination location - is the full path including server address to location on the remote server where the file should be moved. This will be the path that will be appended to the path in fileslist.txt to get the full destination path.
-source directory - location of directory of source files. This is the path that will be appended to the path in fileslist.txt to get the full source path.
+1. keyfile - PEM file used for the file transfer
+2. destination location - is the full path including server address to location on the remote server where the file should be moved. This will be the path that will be appended to the path in fileslist.txt to get the full destination path.
+3. source directory - location of directory of source files. This is the path that will be appended to the path in fileslist.txt to get the full source path.
 
 Example:
 
